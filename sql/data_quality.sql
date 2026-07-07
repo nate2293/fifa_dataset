@@ -184,7 +184,9 @@ group by Date, home_team, away_team;
 select count(*)
 from matches_1930
 
-# comment it
+# comment it, .idea removed 
+
+
 
 
 
